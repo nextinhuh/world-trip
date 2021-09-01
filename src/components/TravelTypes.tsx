@@ -24,7 +24,7 @@ export function TravelTypes() {
                 <Flex flexDir="column" align="center" height={150} justify="space-between">
                     <Icon
                         as={cocktailIcon}
-                        alt="Airplane"
+                        alt="Cocktail"
                         fontSize="90"
                         maxHeight={290}
                     />
@@ -36,7 +36,7 @@ export function TravelTypes() {
                 <Flex flexDir="column" align="center" height={150} justify="space-between">
                     <Icon
                         as={buildingIcon}
-                        alt="Airplane"
+                        alt="Build"
                         fontSize="90"
                         maxHeight={290}
                     />
@@ -48,7 +48,7 @@ export function TravelTypes() {
                 <Flex flexDir="column" align="center" height={150} justify="space-between">
                     <Icon
                         as={museumIcon}
-                        alt="Airplane"
+                        alt="Museum"
                         fontSize="90"
                         maxHeight={290}
                     />
@@ -60,7 +60,7 @@ export function TravelTypes() {
                 <Flex flexDir="column" align="center" height={150} justify="space-between">
                     <Icon
                         as={surfIcon}
-                        alt="Airplane"
+                        alt="Surf"
                         fontSize="90"
                         maxHeight={290}
                     />
@@ -72,7 +72,7 @@ export function TravelTypes() {
                 <Flex flexDir="column" align="center" height={150} justify="space-between">
                     <Icon
                         as={earthIcon}
-                        alt="Airplane"
+                        alt="Earth"
                         fontSize="90"
                         maxHeight={290}
                     />
